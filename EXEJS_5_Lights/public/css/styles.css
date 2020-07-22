@@ -1,0 +1,39 @@
+body {
+    background: #fff;
+}
+.light{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+    color: #fff;
+    display: none;
+    transition: all .5s;
+}
+.light-red {
+    background: red;
+}
+.light-blue {
+    background: blue;
+}
+.light-green {
+    background: green;
+}
+.light-orange {
+    background: orange;
+}
+.light-black {
+    background: black;
+}
+
+.btn1{
+    margin: 0 0 0 40%;
+    background: #fff;
+}
+.btn2{
+    background: red;
+    color: #fff;
+}
